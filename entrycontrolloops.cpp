@@ -5,7 +5,7 @@ using namespace std;
 // {
 // float i,n,pos=0,neg=0,neu=0;
 
-
+// WAP for checking 10 different for positive negative and zero
 // for(i=1;i<=10;i++)
 // {
 //     cout << endl << "Enter the number :";
@@ -27,6 +27,7 @@ using namespace std;
 // return 0;
 // }
 
+//WAP for printing total and average of 10 different no’s.
 // int main()
 // {
 // float i,n,total=0,avg;
@@ -44,6 +45,8 @@ using namespace std;
 // return 0;
 // }
 
+
+//WAP for printing multiplication table of entered no by the user.
 // int main()
 // {
 // float i,n;
@@ -58,6 +61,8 @@ using namespace std;
 // return 0;
 // }
 
+
+// WAP for calculating factorial of a entered no.
 // int main()
 // {
 // float i,n,fact=1;
@@ -74,6 +79,8 @@ using namespace std;
 // return 0;
 // }
 
+
+// WAP for printing fibonacii series:   1,1,2,3,5,8,13,21,….   Up till n digits in series.
 // int main()
 // {
 // int i,n;
